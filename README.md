@@ -22,3 +22,5 @@ Simply let `testrpc` run and do a `truffle test`
 An implementation of the attack described here
 https://github.com/PeterBorah/smart-contract-security-examples/issues/3
 
+There are more detailed explanations for the second part of the attack (race-to-empty)
+here: https://github.com/danbaragan/ethereum-race-to-bottom-vulnerability-example
